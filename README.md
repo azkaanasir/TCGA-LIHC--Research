@@ -15,7 +15,7 @@ Analysis of gene expression **noise** (CV) and **collinearity** (VIF) in Liver H
 - `notebooks/` → Main analysis notebook (`transcriptomic_analysisCV_VIF.ipynb`)
 - `results/` → Output tables and summaries
 - `figures/` → Visualizations (CV vs VIF, cluster plots, pathway charts)
-- `presentations/` → Slides for 3-hour presentation
+
 
 ## How to Run the Analysis
 1. Open `notebooks/transcriptomic_analysisCV_VIF.ipynb`
