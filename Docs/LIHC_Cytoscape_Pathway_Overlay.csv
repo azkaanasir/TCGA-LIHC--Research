@@ -1,0 +1,77 @@
+"Pathway","Name","mean_CV","mean_VIF","propagation_score","noise_status","high_CV_genes"
+"05340","Primary immunodeficiency - Homo sapiens (human)",0.303171528788959,3.73405948389155,1.13206052232031,"NOISY",9
+"04640","Hematopoietic cell lineage - Homo sapiens (human)",0.35767612610637,3.01352711836998,1.07786670561507,"NOISY",27
+"04060","Cytokine-cytokine receptor interaction - Homo sapiens (human)",0.403699182366933,2.42620608360294,0.979457412204187,"NOISY",98
+"04974","Protein digestion and absorption - Homo sapiens (human)",0.442759365856619,2.2115767282032,0.979196309722505,"NOISY",30
+"04742","Taste transduction - Homo sapiens (human)",0.462332499301594,2.1084495882006,0.974804767764199,"NOISY",14
+"05332","Graft-versus-host disease - Homo sapiens (human)",0.365365708099368,2.4168794446074,0.883044869669788,"NOISY",14
+"04672","Intestinal immune network for IgA production - Homo sapiens (human)",0.346446849396641,2.49285720821967,0.86364252578341,"NOISY",15
+"04514","Cell adhesion molecule (CAM) interaction - Homo sapiens (human)",0.318387391848166,2.65768849042197,0.846174506810341,"NOISY",41
+"05322","Systemic lupus erythematosus - Homo sapiens (human)",0.399547106192601,2.11161639221966,0.843690218900224,"NOISY",47
+"04020","Calcium signaling pathway - Homo sapiens (human)",0.376081712061997,2.19809334375729,0.826662707992322,"NOISY",67
+"04260","Cardiac muscle contraction - Homo sapiens (human)",0.335128154819895,2.46587674240729,0.82638472269625,"NOISY",18
+"04940","Type I diabetes mellitus - Homo sapiens (human)",0.325777933184973,2.48969367283332,0.811087258999344,"NOISY",12
+"05414","Dilated cardiomyopathy - Homo sapiens (human)",0.361940739472077,2.23882420818149,0.810321689457197,"NOISY",26
+"00524","Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)",0.398390574499511,2.02713497811647,0.807591468519876,"NOISY",2
+"05410","Hypertrophic cardiomyopathy - Homo sapiens (human)",0.368815401626481,2.16872579866896,0.799859476453802,"NOISY",23
+"05412","Arrhythmogenic right ventricular cardiomyopathy - Homo sapiens (human)",0.346373814948378,2.23580017849853,0.774422637288799,"NOISY",21
+"05320","Autoimmune thyroid disease - Homo sapiens (human)",0.299443394641952,2.50081356031953,0.748852101868705,"NOISY",10
+"04512","ECM-receptor interaction - Homo sapiens (human)",0.334749296987937,2.23683195657203,0.748777924942639,"NOISY",24
+"05330","Allograft rejection - Homo sapiens (human)",0.291960648789313,2.55721201059471,0.746605277705055,"NOISY",10
+"00430","Taurine and hypotaurine metabolism - Homo sapiens (human)",0.344919390602345,2.15930519273604,0.744786231202995,"NOISY",2
+"05143","African trypanosomiasis - Homo sapiens (human)",0.338499968013959,2.15535196943775,0.729586572713503,"NOISY",13
+"05323","Rheumatoid arthritis - Homo sapiens (human)",0.26366512183234,2.76134580682599,0.728070578577998,"NOISY",22
+"04930","Type II diabetes mellitus - Homo sapiens (human)",0.294819328675977,2.46665150837901,0.727216541777886,"NOISY",11
+"02010","ABC transporters - Homo sapiens (human)",0.282254624535096,2.55235100564316,0.720412874779587,"NOISY",10
+"04973","Carbohydrate digestion and absorption - Homo sapiens (human)",0.300341766445208,2.36655178124688,0.710774342363743,"NOISY",11
+"00534","Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)",0.300045974537811,2.3505852828095,0.705283651914812,"NOISY",8
+"04062","Chemokine signaling pathway - Homo sapiens (human)",0.283208490682622,2.48350447794398,0.703349554802048,"NOISY",51
+"04970","Salivary secretion - Homo sapiens (human)",0.344592041307421,2.01481648475961,0.694289725343157,"NOISY",25
+"05146","Amoebiasis - Homo sapiens (human)",0.28577744317821,2.37401548640536,0.678440075770398,"NOISY",27
+"04630","JAK-STAT signaling pathway - Homo sapiens (human)",0.248502412907951,2.7074589639571,0.6728100853926,"NOISY",24
+"04650","Natural killer cell mediated cytotoxicity - Homo sapiens (human)",0.266952481745793,2.48925173201958,0.66451192755264,"NOISY",29
+"04916","Melanogenesis - Homo sapiens (human)",0.318789025908874,2.06850627969382,0.65941710198998,"NOISY",30
+"05310","Asthma - Homo sapiens (human)",0.316368063328188,2.07983837688119,0.657994439329545,"NOISY",8
+"04971","Gastric acid secretion - Homo sapiens (human)",0.315348661304201,2.02820362621074,0.639591298377882,"NOISY",22
+"04972","Pancreatic secretion - Homo sapiens (human)",0.300960215683642,2.03433520160954,0.612253961049233,"NOISY",25
+"04350","TGF-beta signaling pathway - Homo sapiens (human)",0.268384240902245,2.26284299435113,0.60731139931989,"NOISY",17
+"00590","Arachidonic acid metabolism - Homo sapiens (human)",0.297362008457981,2.03748621683768,0.605870993644305,"NOISY",15
+"00350","Tyrosine metabolism - Homo sapiens (human)",0.285480951549901,2.10304693417159,0.600379839921408,"NOISY",7
+"05144","Malaria - Homo sapiens (human)",0.29361186026206,2.00306314719868,0.588123096871382,"NOISY",16
+"04270","Vascular smooth muscle contraction - Homo sapiens (human)",0.240344789585726,2.42356396949748,0.582490972296419,"NOISY",22
+"04310","Wnt signaling pathway - Homo sapiens (human)",0.271845378310557,2.10227006359133,0.571492400747943,"NOISY",40
+"04510","Focal adhesion - Homo sapiens (human)",0.238205640090302,2.36088045813759,0.562375040707351,"NOISY",36
+"05218","Melanoma - Homo sapiens (human)",0.243377082533268,2.30628634942956,0.561297243210468,"NOISY",14
+"04540","Gap junction - Homo sapiens (human)",0.252487329737097,2.1992772767899,0.555289646968157,"NOISY",18
+"04612","Antigen processing and presentation - Homo sapiens (human)",0.249759570473215,2.17681424328707,0.543680190403357,"NOISY",14
+"00340","Histidine metabolism - Homo sapiens (human)",0.263917104966396,2.03513870772787,0.537107915948592,"NOISY",9
+"00790","Folate biosynthesis - Homo sapiens (human)",0.261131535710276,2.02955393253355,0.529980535209317,"NOISY",1
+"04740","Olfactory transduction - Homo sapiens (human)",0.537972660864781,1.66029409605362,0.324022510315189,"HIGH_CV_LOW_VIF",18
+"04744","Phototransduction - Homo sapiens (human)",0.484857091972213,1.57690791638804,0.307473307054475,"HIGH_CV_LOW_VIF",10
+"04080","Neuroactive ligand-receptor interaction - Homo sapiens (human)",0.573710874687729,1.99543815885987,0.287511227617061,"HIGH_CV_LOW_VIF",108
+"00232","Caffeine metabolism - Homo sapiens (human)",0.481577609092009,1.84983399313539,0.260335581938223,"HIGH_CV_LOW_VIF",5
+"04340","Hedgehog signaling pathway - Homo sapiens (human)",0.468863234039679,1.99529855965658,0.234983998645485,"HIGH_CV_LOW_VIF",26
+"00140","Steroid hormone biosynthesis - Homo sapiens (human)",0.371879270531736,1.60262443621813,0.232043928775539,"HIGH_CV_LOW_VIF",22
+"00053","Ascorbate and aldarate metabolism - Homo sapiens (human)",0.38822252504003,1.75962022339784,0.220628587849694,"HIGH_CV_LOW_VIF",9
+"05217","Basal cell carcinoma - Homo sapiens (human)",0.41562195163431,1.9852520182036,0.20935475588152,"HIGH_CV_LOW_VIF",24
+"00910","Nitrogen metabolism - Homo sapiens (human)",0.355319606296139,1.77073231939065,0.200662518216425,"HIGH_CV_LOW_VIF",8
+"00830","Retinol metabolism - Homo sapiens (human)",0.356458168825499,1.77884303609082,0.200387646123545,"HIGH_CV_LOW_VIF",23
+"00591","Linoleic acid metabolism - Homo sapiens (human)",0.343505754448393,1.76999367521989,0.194071741191797,"HIGH_CV_LOW_VIF",9
+"00980","Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human)",0.353560569113544,1.82985494057922,0.193217812665319,"HIGH_CV_LOW_VIF",23
+"04614","Renin-angiotensin system - Homo sapiens (human)",0.311035910453426,1.62688545514653,0.191184886108292,"HIGH_CV_LOW_VIF",5
+"00982","Drug metabolism - cytochrome P450 - Homo sapiens (human)",0.358307064889253,1.89671090456147,0.188909687832525,"HIGH_CV_LOW_VIF",25
+"00040","Pentose and glucuronate interconversions - Homo sapiens (human)",0.32251965012725,1.77059841456764,0.182152908007661,"HIGH_CV_LOW_VIF",9
+"00601","Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human)",0.3302175313016,1.85555638782229,0.177961463994715,"HIGH_CV_LOW_VIF",9
+"00512","Mucin type O-glycan biosynthesis - Homo sapiens (human)",0.344376581549018,1.94616456783891,0.176951418826532,"HIGH_CV_LOW_VIF",9
+"00500","Starch and sucrose metabolism - Homo sapiens (human)",0.329289687993761,1.87122966901133,0.175975025111558,"HIGH_CV_LOW_VIF",18
+"00514","Other types of O-glycan biosynthesis - Homo sapiens (human)",0.300372423957738,1.8587604955954,0.161598239616946,"HIGH_CV_LOW_VIF",13
+"04964","Proximal tubule bicarbonate reclamation - Homo sapiens (human)",0.29631921042436,1.83608398679863,0.16138652292318,"HIGH_CV_LOW_VIF",6
+"04950","Maturity onset diabetes of the young - Homo sapiens (human)",0.296100647630524,1.84697218154904,0.160316787977925,"HIGH_CV_LOW_VIF",4
+"00983","Drug metabolism - other enzymes - Homo sapiens (human)",0.304227329599967,1.90046335592502,0.16008060805355,"HIGH_CV_LOW_VIF",16
+"00592","alpha-Linolenic acid metabolism - Homo sapiens (human)",0.271996155503138,1.79821769670401,0.151258746925739,"HIGH_CV_LOW_VIF",4
+"04976","Bile secretion - Homo sapiens (human)",0.290879512681294,1.96982948956226,0.147667356094834,"HIGH_CV_LOW_VIF",20
+"00360","Phenylalanine metabolism - Homo sapiens (human)",0.267477078302127,1.94321801153011,0.137646458974263,"HIGH_CV_LOW_VIF",3
+"00604","Glycosphingolipid biosynthesis - ganglio series - Homo sapiens (human)",0.260065601895919,1.9593894383193,0.13272787778166,"HIGH_CV_LOW_VIF",4
+"04975","Fat digestion and absorption - Homo sapiens (human)",0.240546317396098,1.8341295862077,0.131150121128278,"HIGH_CV_LOW_VIF",9
+"00860","Porphyrin metabolism - Homo sapiens (human)",0.261369731627708,1.99317995350654,0.131132029081413,"HIGH_CV_LOW_VIF",9
+"00010","Glycolysis / Gluconeogenesis - Homo sapiens (human)",0.242412586353071,1.99802545222132,0.121326075242719,"HIGH_CV_LOW_VIF",10

@@ -1,0 +1,11 @@
+"Pathway","Name","mean_CV","mean_VIF","high_CV_genes","low_CV_genes","n_genes","amplification_score"
+"04742","Taste transduction - Homo sapiens (human)",0.462332499301594,2.1084495882006,14,4,24,0.416666666666667
+"00524","Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)",0.398390574499511,2.02713497811647,2,0,5,0.4
+"05310","Asthma - Homo sapiens (human)",0.316368063328188,2.07983837688119,8,0,21,0.380952380952381
+"04060","Cytokine-cytokine receptor interaction - Homo sapiens (human)",0.403699182366933,2.42620608360294,98,17,215,0.376744186046512
+"04974","Protein digestion and absorption - Homo sapiens (human)",0.442759365856619,2.2115767282032,30,5,68,0.367647058823529
+"04672","Intestinal immune network for IgA production - Homo sapiens (human)",0.346446849396641,2.49285720821967,15,1,41,0.341463414634146
+"04640","Hematopoietic cell lineage - Homo sapiens (human)",0.35767612610637,3.01352711836998,27,2,74,0.337837837837838
+"05322","Systemic lupus erythematosus - Homo sapiens (human)",0.399547106192601,2.11161639221966,47,14,104,0.317307692307692
+"05332","Graft-versus-host disease - Homo sapiens (human)",0.365365708099368,2.4168794446074,14,3,35,0.314285714285714
+"05143","African trypanosomiasis - Homo sapiens (human)",0.338499968013959,2.15535196943775,13,3,33,0.303030303030303
